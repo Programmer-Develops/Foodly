@@ -37,5 +37,3 @@ The site adapts to different screen sizes using `@media` queries:
     * Restaurant grid becomes single-column (1fr).
     * Contact form stacks below the title; decorative image is hidden to save space.
     * Footer columns stack vertically for readability.
-
-## Project Structure
